@@ -8,6 +8,10 @@
       "./team-green"
     ]
   },
+  "This is comment : using yarn": {
+    "start": "yarn workspace main start",
+    "test": "yarn workspaces run test"
+  },
   "scripts": {
     "start": "yarn workspace main start",
     "test": "yarn workspaces run test"

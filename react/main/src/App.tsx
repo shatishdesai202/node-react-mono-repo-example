@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Main Project</h1>
+      
       <AppRed />
       <AppGreen />
     </div>
