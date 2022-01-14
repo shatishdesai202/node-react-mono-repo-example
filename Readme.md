@@ -1,11 +1,14 @@
-usefull command for yarn workspace
+# usefull command for yarn workspace
 
-yarn install
+```
+✨  yarn install
 
-yarn workspace [workspace name] [command-name]
+✨  yarn workspace [workspace name] [command-name]
 
-yarn workspace run [command-name]
+✨  yarn workspace run [command-name]
 
-yarn workspaces info
+✨  yarn workspaces info
 
-yarn why [package-name]
+✨  yarn why [package-name]
+
+```
