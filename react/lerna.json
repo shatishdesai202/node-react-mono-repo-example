@@ -1,6 +1,11 @@
 {
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "packages": ["./core", "./main", "./team-green", "./team-red"],
-  "version": "1.0.0"
+  "packages": [
+    "./core",
+    "./main",
+    "./team-green",
+    "./team-red"
+  ],
+  "version": "1.0.1"
 }
