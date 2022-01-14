@@ -13,7 +13,7 @@
     "test": "yarn workspaces run test"
   },
   "scripts": {
-    "start": "yarn workspace main start",
-    "test": "yarn workspaces run test"
+    "start": "lerna run --scope=main start --stream",
+    "test": "lerna run test --since HEAD~1 --stream"
   }
 }
